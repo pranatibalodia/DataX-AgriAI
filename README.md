@@ -1,18 +1,23 @@
-# DataX-AgriAI
-Data X Project for AI in Agriculture
+Agriculture sector is the largest employer in India, with more than half the total workforce of the country. However, the sector has been in a state of perennial
+distress (seeing negative growth in recent years) which has impacted farmers themost, the average annual household income of an Indian farmer being less than $1500.
 
-Team Members:
-- Manan Arora
-- Bharatdeep Maan
-- Pranati
-- Jaya
-- Saif
-- Anmol
+Some of the Major Reasons for this:
+- Information asymmetry between the farmers and the data sources.
+- Unaware of best practices
+- Lack of market awareness
+- Increasing climate change uncertainty
 
+We propose a decision support system which consists of a suite of software solutions to support farmers whenever they require more information about farming related
+practices. It consists of 2 solutions currently:
 
-Project Components:
-- Image Based Disease Detection
-- Text Input Query Answering
+1. Farm Assist:
+o Text based Chatbot - Advice on Plant Protection (For Cotton & Wheat)
+o Know Your Price – Nearest Mandi Commodity Price
+
+2. Image Based Crop Disease Detection:
+o Plant Village Based Multi Crop Multi Disease Detection
+o Maize Field Images Disease Detection
+
 
 Datasets Used:
 - data.gov.in 
@@ -24,4 +29,15 @@ Datasets Used:
 
 Note: All these are open source datasets. 
 
+Project Team Members:
+- Manan Arora
+- Bharatdeep Maan
+- Pranati
+- Jaya
+- Saif
+- Anmol
 
+Hosted Version of Farm Assist: https://farm-assist.herokuapp.com/
+(Currently this only has pricing information and chatbot)
+
+Please refer to full report and presentation for all the details
